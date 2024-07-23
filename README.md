@@ -10,7 +10,7 @@
 
   🧩 ・ Visite o meu Portfólio: <a href="https://samysilvadesousa.github.io" target="_blank">samysilvadesousa.github.io</a>
 
-  <br><br>
+  <br>
 
   ## Tecnologias Conhecidas 👇
 
@@ -28,7 +28,7 @@
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samysilvadesousa&layout=compact&bg_color=0D1117&text_color=fff&border_radius=10&border_color=262B32&title_color=fff&locale=pt-br)
 
-  <br><br>
+  <br>
 
   ## Ferramentas Conhecidas 👇
 
