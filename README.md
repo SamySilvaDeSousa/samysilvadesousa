@@ -1,18 +1,18 @@
 <div align="center">
   
-  # Sobre Mim ⭣
+  ## Sobre Mim ⭣
 
-  <h3>🖥 ・ Atualmente estudando Desenvolvimento Web.</h3>
+  <h4>🖥 ・ Atualmente estudando Desenvolvimento Web.</h4>
 
-  <h3>📚 ・ Cursando Análise e Desenvolvimento de Sistemas na UNINASSAU-JP/PB.</h3>
+  <h4>📚 ・ Cursando Análise e Desenvolvimento de Sistemas na UNINASSAU-JP/PB.</h4>
 
-  <h3>💼 ・ Aberto a Oportunidades de Estágio.</h3>
+  <h4>💼 ・ Aberto a Oportunidades de Estágio.</h4>
 
-  <h3>🧩 ・ Visite o meu Portfólio: <a href="https://samysilvadesousa.github.io" target="_blank">samysilvadesousa.github.io</a></h3> 
+  <h4>🧩 ・ Visite o meu Portfólio: <a href="https://samysilvadesousa.github.io" target="_blank">samysilvadesousa.github.io</a></h4> 
 
   <br><br>
 
-  # Tecnologias Conhecidas ⭣
+  ## Tecnologias Conhecidas ⭣
 
   <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,mysql,git,github" />
 
@@ -30,7 +30,7 @@
 
   <br><br>
 
-  # Ferramentas Conhecidas ⭣
+  ## Ferramentas Conhecidas ⭣
   <img src="https://skillicons.dev/icons?i=vscode,figma,postman" />
 
   ![VSCode](https://badgen.net/badge/Label/VSCode/3C99D4?icon=icon&label=)
