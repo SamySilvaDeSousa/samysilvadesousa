@@ -2,13 +2,13 @@
   
   ## Sobre Mim ⭣
 
-  <h4>🖥 ・ Atualmente estudando Desenvolvimento Web.</h4>
+  🖥 ・ Atualmente estudando Desenvolvimento Web.
 
-  <h4>📚 ・ Cursando Análise e Desenvolvimento de Sistemas na UNINASSAU-JP/PB.</h4>
+  📚 ・ Cursando Análise e Desenvolvimento de Sistemas na UNINASSAU-JP/PB.
 
-  <h4>💼 ・ Aberto a Oportunidades de Estágio.</h4>
+  💼 ・ Aberto a Oportunidades de Estágio.
 
-  <h4>🧩 ・ Visite o meu Portfólio: <a href="https://samysilvadesousa.github.io" target="_blank">samysilvadesousa.github.io</a></h4> 
+  🧩 ・ Visite o meu Portfólio: <a href="https://samysilvadesousa.github.io" target="_blank">samysilvadesousa.github.io</a>
 
   <br><br>
 
