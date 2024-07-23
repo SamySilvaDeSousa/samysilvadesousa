@@ -1,17 +1,16 @@
-# Samy Silva de Sousa
+# Esse é o Meu Perfil ‎ ‎👋🙂
 
 <br>
 
 ## Sobre Mim ⭣
 
-Olá! Sou [Seu Nome], um desenvolvedor apaixonado por [área de interesse: ex. Desenvolvimento Web, Ciência de Dados, etc.]. Com experiência em [linguagens e tecnologias chave: ex. JavaScript, Python, React, etc.], adoro criar soluções que impactam positivamente o mundo.
+🖥 ・ Atualmente estudando Desenvolvimento Web.
 
-- 🔭 Atualmente, estou trabalhando em [projeto ou empresa atual].
-- 🌱 Estou aprendendo [tecnologia ou habilidade nova que está aprendendo].
-- 👯 Estou procurando colaborar em [tipo de projetos ou áreas de interesse].
-- 💬 Pergunte-me sobre [temas ou tecnologias em que você é especialista].
-- 📫 Como chegar até mim: [email@example.com](mailto:email@example.com)
-- ⚡ Fun fact: [algum fato interessante sobre você].
+📚 ・ Cursando Análise e Desenvolvimento de Sistemas na UNINASSAU-JP/PB.
+
+💼 ・ Aberto a Oportunidades de Estágio.
+
+🧩 ・ Visite o meu Portfólio: [samysilvadesousa.github.io](samysilvadesousa.github.io)
 
 <br>
 
