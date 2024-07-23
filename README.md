@@ -38,9 +38,8 @@
 <br>
 
 ## Entre em Contato ⭣
-<img src="https://skillicons.dev/icons?i=linkedin,gmail" />
+<img src="https://skillicons.dev/icons?i=linkedin" />
 
 [![LinkedIn](https://badgen.net/badge/Label/LinkedIn/0A66C2?icon=icon&label=)](https://www.linkedin.com/in/samysilvadesousa/)
-![Email](https://badgen.net/badge/Email/samysilvadesousa@gmail.com/343434?icon=icon&labelColor=ff0000&color=343434)
 
 <br>
