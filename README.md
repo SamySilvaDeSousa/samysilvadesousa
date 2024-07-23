@@ -10,7 +10,7 @@
 
 💼 ・ Aberto a Oportunidades de Estágio.
 
-🧩 ・ Visite o meu Portfólio: [samysilvadesousa.github.io](samysilvadesousa.github.io)
+🧩 ・ Visite o meu Portfólio: [samysilvadesousa.github.io](https://samysilvadesousa.github.io)
 
 <br>
 
