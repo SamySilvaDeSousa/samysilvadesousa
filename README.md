@@ -38,4 +38,5 @@
   ![Figma](https://badgen.net/badge/Label/Figma/A259FF?icon=icon&label=)
   ![Postman](https://badgen.net/badge/Label/Postman/FF6C37?icon=icon&label=)
 
+  <br>
 </div>
