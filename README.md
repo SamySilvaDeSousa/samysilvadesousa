@@ -8,9 +8,7 @@
 
   <h3>💼 ・ Aberto a Oportunidades de Estágio.</h3>
 
-  <h3>🧩 ・ Visite o meu Portfólio no link abaixo:</h3> 
-  
-  [samysilvadesousa.github.io](https://samysilvadesousa.github.io)
+  <h3>🧩 ・ Visite o meu Portfólio: <a href="https://samysilvadesousa.github.io">samysilvadesousa.github.io</a></h3> 
 
   <br><br>
 
