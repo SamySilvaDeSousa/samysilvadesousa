@@ -29,11 +29,10 @@
 <br>
 
 ## Ferramentas Conhecidas ⭣
-<img src="https://skillicons.dev/icons?i=vscode,figma,notion,postman" />
+<img src="https://skillicons.dev/icons?i=vscode,figma,postman" />
 
 ![VSCode](https://badgen.net/badge/Label/VSCode/3C99D4?icon=icon&label=)
 ![Figma](https://badgen.net/badge/Label/Figma/A259FF?icon=icon&label=)
-![Notion](https://badgen.net/badge/Label/Notion/242938?icon=icon&label=)
 ![Postman](https://badgen.net/badge/Label/Postman/FF6C37?icon=icon&label=)
 
 <br>
