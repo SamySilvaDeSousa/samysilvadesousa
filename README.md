@@ -37,11 +37,4 @@
   ![Figma](https://badgen.net/badge/Label/Figma/A259FF?icon=icon&label=)
   ![Postman](https://badgen.net/badge/Label/Postman/FF6C37?icon=icon&label=)
 
-  <br><hr><br>
-
-  # Entre em Contato ⭣
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-
-  [![LinkedIn](https://badgen.net/badge/Label/LinkedIn/0A66C2?icon=icon&label=)](https://www.linkedin.com/in/samysilvadesousa/)
-
 </div>
