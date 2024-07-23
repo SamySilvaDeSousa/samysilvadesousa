@@ -1,6 +1,6 @@
 <div align="center">
   
-  ## Sobre Mim ⭣
+  ## Sobre Mim 👇
 
   🖥 ・ Atualmente estudando Desenvolvimento Web.
 
@@ -12,7 +12,7 @@
 
   <br><br>
 
-  ## Tecnologias Conhecidas ⭣
+  ## Tecnologias Conhecidas 👇
 
   <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,mysql,git,github" />
 
@@ -30,7 +30,8 @@
 
   <br><br>
 
-  ## Ferramentas Conhecidas ⭣
+  ## Ferramentas Conhecidas 👇
+
   <img src="https://skillicons.dev/icons?i=vscode,figma,postman" />
 
   ![VSCode](https://badgen.net/badge/Label/VSCode/3C99D4?icon=icon&label=)
