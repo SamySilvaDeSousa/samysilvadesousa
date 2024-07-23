@@ -1,10 +1,6 @@
 <div align="center">
   
-  # Esse é o Meu Perfil!<br>👋🙂
-  
-  <br><hr><br>
-  
-  ## Sobre Mim ⭣
+  # Sobre Mim ⭣
 
   🖥 ・ Atualmente estudando Desenvolvimento Web.
 
@@ -16,7 +12,7 @@
 
   <br><hr><br>
 
-  ## Tecnologias Conhecidas ⭣
+  # Tecnologias Conhecidas ⭣
 
   <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,mysql,git,github" />
 
@@ -34,7 +30,7 @@
 
   <br><hr><br>
 
-  ## Ferramentas Conhecidas ⭣
+  # Ferramentas Conhecidas ⭣
   <img src="https://skillicons.dev/icons?i=vscode,figma,postman" />
 
   ![VSCode](https://badgen.net/badge/Label/VSCode/3C99D4?icon=icon&label=)
@@ -43,7 +39,7 @@
 
   <br><hr><br>
 
-  ## Entre em Contato ⭣
+  # Entre em Contato ⭣
   <img src="https://skillicons.dev/icons?i=linkedin" />
 
   [![LinkedIn](https://badgen.net/badge/Label/LinkedIn/0A66C2?icon=icon&label=)](https://www.linkedin.com/in/samysilvadesousa/)
