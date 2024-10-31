@@ -2,7 +2,7 @@
   
   ## Sobre Mim 👇
 
-  🖥 ・ Atualmente estudando Desenvolvimento Web.
+  🖥 ・ Atualmente estudando Web Design e Desenvolvimento Web.
 
   📚 ・ Cursando Análise e Desenvolvimento de Sistemas na UNINASSAU-JP/PB.
 
@@ -32,11 +32,11 @@
 
   ## Ferramentas Conhecidas 👇
 
-  <img src="https://skillicons.dev/icons?i=vscode,figma,postman" />
+  <img src="https://skillicons.dev/icons?i=vscode,figma,wordpress"/>
 
   ![VSCode](https://badgen.net/badge/Label/VSCode/3C99D4?icon=icon&label=)
   ![Figma](https://badgen.net/badge/Label/Figma/A259FF?icon=icon&label=)
-  ![Postman](https://badgen.net/badge/Label/Postman/FF6C37?icon=icon&label=)
+  ![WordPress](https://badgen.net/badge/Label/WordPress/0073AA?icon=icon&label=)
 
   <br>
 </div>
