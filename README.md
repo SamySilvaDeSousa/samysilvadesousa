@@ -2,11 +2,11 @@
   
   ## Sobre Mim 👇
 
-  🖥 ・ Atualmente estudando Web Design e Desenvolvimento Web.
+  🖥 ・ Atualmente estudando Web Design e Desenvolvimento Front-End.
 
-  📚 ・ Cursando Análise e Desenvolvimento de Sistemas na UNINASSAU-JP/PB.
+  📚 ・ Formado em Análise e Desenvolvimento de Sistemas na UNINASSAU-JP/PB.
 
-  💼 ・ Aberto a Oportunidades de Estágio.
+  💼 ・ Disponível para Vagas de Emprego.
 
   🧩 ・ Visite o meu Portfólio: <a href="https://samysilvadesousa.github.io" target="_blank">samysilvadesousa.github.io</a>
 
