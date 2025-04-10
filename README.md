@@ -14,13 +14,12 @@
 
   ## Tecnologias Conhecidas 👇
 
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,git,github" />
 
   ![HTML](https://badgen.net/badge/Label/HTML/E14E1D?icon=icon&label=)
   ![CSS](https://badgen.net/badge/Label/CSS/0277BD?icon=icon&label=)
   ![Javascript](https://badgen.net/badge/Label/Javascript/F0DB4F?icon=icon&label=)
   ![TailwindCSS](https://badgen.net/badge/Label/TailwindCSS/24BBBC?icon=icon&label=)
-  ![MySQL](https://badgen.net/badge/Label/MySQL/242938?icon=icon&label=)
   ![Git](https://badgen.net/badge/Label/Git/F03C2E?icon=icon&label=)
   ![GitHub](https://badgen.net/badge/Label/GitHub/242938?icon=icon&label=)
 
