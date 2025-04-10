@@ -14,14 +14,13 @@
 
   ## Tecnologias Conhecidas 👇
 
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,git" />
 
   ![HTML](https://badgen.net/badge/Label/HTML/E14E1D?icon=icon&label=)
   ![CSS](https://badgen.net/badge/Label/CSS/0277BD?icon=icon&label=)
   ![Javascript](https://badgen.net/badge/Label/Javascript/F0DB4F?icon=icon&label=)
   ![TailwindCSS](https://badgen.net/badge/Label/TailwindCSS/24BBBC?icon=icon&label=)
   ![Git](https://badgen.net/badge/Label/Git/F03C2E?icon=icon&label=)
-  ![GitHub](https://badgen.net/badge/Label/GitHub/242938?icon=icon&label=)
 
   <br>
 
@@ -31,8 +30,9 @@
 
   ## Ferramentas Conhecidas 👇
 
-  <img src="https://skillicons.dev/icons?i=vscode,figma,wordpress"/>
+  <img src="https://skillicons.dev/icons?i=github,vscode,figma,wordpress"/>
 
+  ![GitHub](https://badgen.net/badge/Label/GitHub/242938?icon=icon&label=)
   ![VSCode](https://badgen.net/badge/Label/VSCode/3C99D4?icon=icon&label=)
   ![Figma](https://badgen.net/badge/Label/Figma/A259FF?icon=icon&label=)
   ![WordPress](https://badgen.net/badge/Label/WordPress/0073AA?icon=icon&label=)
